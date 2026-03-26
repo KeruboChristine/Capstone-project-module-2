@@ -13,6 +13,7 @@ Subtitle: Data-Driven Insights for Better Budget Decisions
 This project focuses on transforming raw government expenditure data into meaningful insights that can guide better financial decisions.
 
 TARGET AUDIENCE
+
 Policy makers
 Financial analysts
 Government planners
