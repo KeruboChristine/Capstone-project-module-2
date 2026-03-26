@@ -1,22 +1,155 @@
-Title:
-Analysis of Government Expenditure in Kenya Using Excel and Tableau
 
-Background
-Government expenditure plays an important role in economic development and public service delivery. Analyzing how funds are allocated across different ministries can help identify spending priorities and trends. Data analysis tools such as Excel and Tableau make it possible to explore and visualize public finance data effectively.
 
-Problem Statement
-Understanding how government funds are distributed across ministries and expenditure categories is important for transparency and decision-making. However, the large volume of financial data makes it difficult to easily identify spending patterns and trends without proper analysis and visualization.
+Title: Kenya Government Expenditure  Analysis
+Subtitle: Data-Driven Insights for Better Budget Decisions
 
-Objectives
-The objectives of this project are:
 
-1. To analyze trends in government expenditure over time.
-2. To identify ministries with the highest spending.
-3. To examine key spending categories such as salaries, travel, and subsidies.
-4. To visualize government expenditure patterns using dashboards.
+ OBJECTIVE
 
-Methodology
-The dataset will be cleaned and prepared using Microsoft Excel. Pivot tables and summary statistics will be used to analyze the data. Interactive dashboards will then be created in Excel and Tableau to visualize spending trends, ministry allocations, and expenditure categories.
+ To analyze government expenditure trends
+ To identify key spending patterns across sectors
+ To provide insights for better decision-making
 
-  Expected Outcome
-The project will provide insights into how government funds are distributed across ministries and spending categories. The final output will include a cleaned dataset, analytical insights, and interactive dashboards showing government expenditure patterns.
+This project focuses on transforming raw government expenditure data into meaningful insights that can guide better financial decisions.
+
+TARGET AUDIENCE
+Policy makers
+Financial analysts
+Government planners
+
+These stakeholders are interested in understanding how funds are allocated and how efficiently resources are being used.
+
+
+
+DATA OVERVIEW
+
+ Source: Africa Data Hub
+Time Period: 2022/2023 – 2023/2024
+ Key Variables:
+
+   Sector/Category
+   Expenditure Amount
+   Financial Year
+
+
+The dataset contains government spending across different sectors over two financial years.
+
+
+
+ CONTEXT (THE NORMAL STATE)
+
+ Government spending typically increases yearly
+ Allocation varies by sector
+
+
+Normally, we expect gradual increases in spending, but the key question is whether this growth is balanced across sectors.
+
+
+
+ KEY QUESTION
+
+"Are government funds being allocated efficiently across sectors?
+
+
+This question guides the entire analysis and helps us focus on meaningful insights.
+
+
+
+ MAIN TREND (LINE CHART)
+
+ Show expenditure trend over time
+
+
+This chart shows how total expenditure has changed between the two financial years. Notice any increase or decrease.
+
+
+
+ CATEGORY BREAKDOWN (BAR CHART)
+
+Compare spending across sectors
+
+
+Here we compare how much each sector receives. Focus on which sectors dominate spending.
+
+
+
+ KEY INSIGHT 1
+
+ Certain sectors receive significantly higher funding
+
+
+This indicates possible prioritization or imbalance in allocation.
+
+
+
+ KEY INSIGHT 2
+
+ Some sectors show minimal or stagnant growth
+
+
+This could indicate underfunding or lack of investment.
+
+
+
+TENSION / PROBLEM
+
+ Imbalance in allocation
+ Potential inefficiency in resource distribution
+
+
+While total spending may increase, unequal distribution raises concerns about effectiveness.
+
+
+
+ WHY THIS MATTERS
+
+ Impacts service delivery
+ Affects economic growth
+ Influences public welfare
+
+
+These spending patterns directly affect citizens and national development.
+
+ RECOMMENDATIONS
+
+ Reallocate funds to underfunded sectors
+ Monitor spending trends regularly
+ Improve budget planning strategies
+
+
+These recommendations aim to improve efficiency and ensure balanced development.
+
+
+ IMPACT
+
+ Better resource utilization
+ Improved sector performance
+ Data-driven decision making
+
+Implementing these changes can lead to measurable improvements in government performance.
+
+
+ DASHBOARD DEMO
+
+Show your Tableau/Excel dashboard
+
+
+This interactive dashboard allows users to explore the data and uncover insights dynamically.
+
+
+
+CONCLUSION (CALL TO ACTION)
+
+Use data to guide budgeting decisions
+Focus on efficiency, not just spending
+
+
+In conclusion, data-driven insights are essential for making informed financial decisions.
+
+
+
+ THANK YOU
+
+ Questions?
+
+
